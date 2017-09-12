@@ -1,0 +1,29 @@
+* {
+    margin: 0px;
+    font-size: 5vw;
+    font-family: 'Helvetica', sans-serif;
+}
+
+#fon {
+    width: 100vw;
+    height: 100vh;
+    transition: 1s;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#checko {
+    border-style: none;
+    background-color: transparent;
+    border-bottom-style: solid; 
+}
+
+#checko:focus {
+    outline: 0;
+}
+
+#tty {
+    margin: 0 auto;
+    position: relative;
+    padding-top: 40vh;
+}
